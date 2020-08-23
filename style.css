@@ -1,0 +1,94 @@
+body{
+     font-family:"Courier";
+     color:#777777;
+     line-height:30px;
+     float:right;
+     }
+.banner{
+       color:red;
+       }
+.h1{
+    font-size:2.6em;
+    }
+.half-width{
+            width:50%;
+            float:left;
+            }
+.side-img{
+          width:50%;
+          padding-left:25%;
+          }
+.primary-btn{
+             color:white;
+             background-color:red;
+             padding:13px 42px 13px 42px;
+             border-radius:20px;
+             text-decoration:none;
+             }
+.container{
+           padding-left:5%;
+           display:inline-block;
+           }             
+.dream{
+       color:blue
+       }
+.secondary-btn{
+                  color:white;
+                  background-color: blue;
+                  padding:13px 42px 13px 42px;
+                  border-radius:20px;
+                  text-decoration:none;
+                  }
+.experiences{
+             padding:30px;
+             margin:30px;
+             background-color:rgb(238,251,255);
+             border-radius:20px;
+             }
+.experience-item{
+                 border-left:1px solid rgba(137,130,247,.2);
+                 padding:10x;
+                 }
+.banner2{
+         color:green;
+         }                        
+             
+             
+             
+          
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+
+
+
+
+
+
+
+  
